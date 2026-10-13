@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.3.3](https://github.com/Quantinuum/selene/compare/selene-core-v0.3.2...selene-core-v0.3.3) (2026-10-13)
+
+
+### Features
+
+* Bump lief to 1.0.0 ([#246](https://github.com/Quantinuum/selene/issues/246)) ([b13e042](https://github.com/Quantinuum/selene/commit/b13e042ea42540f01bb69baff7b3b922dc9464eb))
+* improved result stream writing and error handling ([#230](https://github.com/Quantinuum/selene/issues/230)) ([e50b2da](https://github.com/Quantinuum/selene/commit/e50b2dab539ce6c6257660427a264112a5be56e7))
+
+
+### Bug Fixes
+
+* Pin ziglang to 0.16 to avoid link ordering issues with 0.17 ([#243](https://github.com/Quantinuum/selene/issues/243)) ([0b6c2b1](https://github.com/Quantinuum/selene/commit/0b6c2b18ac9ab0b48f53dfd02731358cdf9fbd68))
+
 ## [0.3.2](https://github.com/Quantinuum/selene/compare/selene-core-v0.3.1...selene-core-v0.3.2) (2026-09-09)
 
 
