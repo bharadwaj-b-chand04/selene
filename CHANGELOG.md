@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.3.5](https://github.com/Quantinuum/selene/compare/selene-sim-v0.3.4...selene-sim-v0.3.5) (2026-10-13)
+
+
+### Features
+
+* add get_global_state respecting qubit ordering without phase normalization ([#247](https://github.com/Quantinuum/selene/issues/247)) ([b61ac6c](https://github.com/Quantinuum/selene/commit/b61ac6c55f27e54e2986bc360482a801aeae00b8))
+* Bump lief to 1.0.0 ([#246](https://github.com/Quantinuum/selene/issues/246)) ([b13e042](https://github.com/Quantinuum/selene/commit/b13e042ea42540f01bb69baff7b3b922dc9464eb))
+
+
+### Bug Fixes
+
+* Pin ziglang to 0.16 to avoid link ordering issues with 0.17 ([#243](https://github.com/Quantinuum/selene/issues/243)) ([0b6c2b1](https://github.com/Quantinuum/selene/commit/0b6c2b18ac9ab0b48f53dfd02731358cdf9fbd68))
+
 ## [0.3.4](https://github.com/Quantinuum/selene/compare/selene-sim-v0.3.3...selene-sim-v0.3.4) (2026-10-02)
 
 
